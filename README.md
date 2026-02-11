@@ -1,10 +1,10 @@
-#　環境構築
+# 環境構築
 
-##　Dockerビルド
+## Dockerビルド
 - https://github.com/days1024/test-contact-form.git
 - docker-compose up -d --build
 
-##　Laravel環境構築
+## Laravel環境構築
 - docker-compose exec php bash
 - composer install
 - cp .env.example .env ,環境変数を適宜変更
@@ -21,13 +21,13 @@
 - 管理画面ユーザー登録: http://localhost/register
 - 管理画面ユーザーログイン: http://localhost/login
 - phpMyAdmin: http://localhost:8080/
-##　機能
+## 機能
 -  お問い合わせ管理画面検索(/search)
 -  お問い合わせ管理画面検索リセット(/reset)
 -  お問い合わせ管理画面フォーム削除(/delete)
 -  お問い合わせ管理画面検索エクスポート(/reset)
 
-#　使用技術
+# 使用技術
 
 - PHP: 8.5.1/8.1.34
 - Composer 2.9.3
