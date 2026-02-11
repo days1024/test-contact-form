@@ -33,4 +33,4 @@
 
 # ER図
 
-![ER図](er.png)
+![ER図](src/resources/app/er.png)
