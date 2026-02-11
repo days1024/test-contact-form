@@ -21,6 +21,11 @@
 - 管理画面ユーザー登録: http://localhost/register
 - 管理画面ユーザーログイン: http://localhost/login
 - phpMyAdmin: http://localhost:8080/
+##　機能
+-  お問い合わせ管理画面検索(/search)
+-  お問い合わせ管理画面検索リセット(/reset)
+-  お問い合わせ管理画面フォーム削除(/delete)
+-  お問い合わせ管理画面検索エクスポート(/reset)
 
 #　使用技術
 
@@ -33,4 +38,4 @@
 
 # ER図
 
-![ER図](src/resources/app/er.png)
+- ER図のファイルは `src/resources/app/er.drawio` にあります
