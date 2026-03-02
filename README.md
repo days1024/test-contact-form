@@ -38,4 +38,4 @@
 
 # ER図
 
-- ER図のファイルは `src/resources/app/er.drawio` にあります
+![ER図](src/er2.png)
